@@ -3,7 +3,7 @@
 La 5ème édition de [UNLOCK YOUR BRAIN, HARDEN YOUR SYSTEM](https://www.unlockyourbrain.bzh/) s'est tenue les vendredi 13 et samedi 14 Novembre 2020, entièrement en ligne contraitrement aux années précédentes pour cause de Covid-19.
 ## OSINTy'Zef
 ### Online Capture The Flag
-Pour cette édition et au regard des conditions sanitaires, DIATEAM a eu la bonne idée d’organiser un CTF de type OSINT qui permet de jouer à distance.
+Pour cette édition et au regard des conditions sanitaires, [DIATEAM](https://www.diateam.net/) a eu la bonne idée d’organiser un CTF de type OSINT qui permet de jouer à distance.
 
 Le challenge OSINTY’ZEF est un ‘Capture The Flag’ de type **‘Jeopardy’** (Ensemble de questions avec des réponses à donner sous la  forme  d’un flag)  sur  le  thème de  l'OSINT,  entendu  dans ce contexte comme une activité strictement passive. Toutes   les   épreuves   de   ce   CTF   peuvent   être   résolues   sans nécessiter   la   création   de   comptes   sur   les   réseaux   sociaux   ou autres sites web, l'achat de services en ligne ou le besoin d'entrer en contact avec la cible (fictive) du scénario.
 
